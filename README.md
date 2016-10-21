@@ -12,4 +12,4 @@ Implementações de Árvores Binárias de Busca, AVL e Árvore Rubro-Negra em C+
 ![Árvore AVL](https://s10.postimg.org/3qf2btyrd/Arv_AVL.png "Árvore AVL")
 
 ### Árvore Rubro Negra
-![Árvore Rubro Negra](https://postimg.org/image/qthksew9b/ "Árvore Rubro Negra")
+![Árvore Rubro Negra](https://s11.postimg.org/aihgw3jrn/Arv_RN.png "Árvore Rubro Negra")
