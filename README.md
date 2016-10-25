@@ -6,7 +6,7 @@ Implementações de Árvores Binárias de Busca, AVL e Árvore Rubro-Negra em C+
 
 ## Linux:
 ### Árvore Binária de Busca
-![Árvore Binária de Busca](https://s4.postimg.org/eu94f1rwd/Arv_B.png "Árvore Binária de Busca")
+![Árvore Binária de Busca](https://s11.postimg.org/eu94f1rwd/Arv_B.png "Árvore Binária de Busca")
 
 ### Árvore AVL
 ![Árvore AVL](https://s10.postimg.org/3qf2btyrd/Arv_AVL.png "Árvore AVL")
